@@ -7,7 +7,7 @@ namespace DoFactory.GangOfFour.Abstract.RealWorld
     /// Abstract Factory Design Pattern.
     /// </summary>
 
-    static class AbstractFactory
+    public class AbstractFactory
     {
         public static void Start()
         {

@@ -10,10 +10,6 @@ namespace DoFactory.GangOfFour.Builder.RealWorld
 
     public class Builder
     {
-        /// <summary>
-        /// Entry point into console application.
-        /// </summary>
-
         public static void Start()
         {
             VehicleBuilder builder;

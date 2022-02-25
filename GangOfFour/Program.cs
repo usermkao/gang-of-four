@@ -1,5 +1,6 @@
 ﻿using DoFactory.GangOfFour.Abstract.RealWorld;
 using DoFactory.GangOfFour.Builder.RealWorld;
+using DoFactory.GangOfFour.Factory.RealWorld;
 
 namespace GangOfFour
 {
@@ -9,6 +10,7 @@ namespace GangOfFour
         {
             RunAbstractFactory();
             RunBuilder();
+            RunFactoryMethod();
         }
 
         static void RunAbstractFactory()
@@ -19,6 +21,11 @@ namespace GangOfFour
         static void RunBuilder()
         {
             Builder.Start();
+        }
+
+        static void RunFactoryMethod()
+        {
+            FactoryMethod.Start();
         }
     }
 }
