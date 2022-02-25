@@ -1,0 +1,8 @@
+C:\Users\mkao\Documents\Projects\GangOfFour\GangOfFour\bin\Debug\GangOfFour.exe.config
+C:\Users\mkao\Documents\Projects\GangOfFour\GangOfFour\bin\Debug\GangOfFour.exe
+C:\Users\mkao\Documents\Projects\GangOfFour\GangOfFour\bin\Debug\GangOfFour.pdb
+C:\Users\mkao\Documents\Projects\GangOfFour\GangOfFour\obj\Debug\GangOfFour.csproj.AssemblyReference.cache
+C:\Users\mkao\Documents\Projects\GangOfFour\GangOfFour\obj\Debug\GangOfFour.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkao\Documents\Projects\GangOfFour\GangOfFour\obj\Debug\GangOfFour.csproj.CoreCompileInputs.cache
+C:\Users\mkao\Documents\Projects\GangOfFour\GangOfFour\obj\Debug\GangOfFour.exe
+C:\Users\mkao\Documents\Projects\GangOfFour\GangOfFour\obj\Debug\GangOfFour.pdb
